@@ -1,9 +1,7 @@
-Questão 1
+#Questão 1
 print("o primeiro programa a gente nunca esquece")
-Questão 2
-print("Guilherme esteves")
-print("Rio de janeiro")
-print("Rio de janeiro")
+
+
 Questão 3
 print("you how do you own the world?how do you own disorder")
 Questão 4
